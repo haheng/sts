@@ -6,7 +6,7 @@
  * Time: 上午 10:36
  */
 
-namespace stsserver;
+namespace sts\stsserver;
 
 include_once 'aliyun-php-sdk-core/Config.php';
 

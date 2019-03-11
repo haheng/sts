@@ -1,0 +1,21 @@
+{
+  "name": "sts/stsserver",
+  "description": "阿里开放获取sts的token资源包",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","sts"],
+  "license": "BSD-4-Clause",
+  "authors": [
+    {
+      "name": "lty",
+      "email": "41849108@qq.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "sts\\stsserver\\": "stsserver"
+    }
+  }
+}
